@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Write a description of class NestedIfExample here.
  *
- * @author (your name)
+ * @author (Prithak Maharjan)
  * @version (a version number or a date)
  */
 public class NestedIfExample
